@@ -1,0 +1,11 @@
+{
+  "name": "spaceman",
+  "version": "1.0.0",
+  "description": "personal blog and site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuri-gagarin",
+  "license": "ISC"
+}
